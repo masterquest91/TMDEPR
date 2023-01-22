@@ -1,0 +1,25 @@
+{
+		"id": "00112233445566",
+		"title": "TM de PR",
+		"content": {
+			"dateAdded": "2022-01-22T02:01:00+02:00",
+			"videos": [{
+				"url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8",
+				"quality": "HD",
+				"videoType": "MP4"
+			}],
+			"duration": 3600,
+			"captions": "",
+			"language": "es"
+		},
+		"language": "es",
+		"thumbnail": "https://media.telemundopr.com/2022/09/Telemundo-PR-1-1.png",
+		"brandedThumbnail": "https://media.telemundopr.com/2022/09/Telemundo-PR-1-1.png",
+		"shortDescription": "TM de PR",
+		"longDescription": "TM de PR",
+		"tags": [
+			"PR",
+			"noticias",
+			"local"
+		]
+}
